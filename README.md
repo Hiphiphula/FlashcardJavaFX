@@ -25,6 +25,11 @@ They help reinforce learning through active recall, where users attempt to answe
 * Flash cards are very good at helping you remember relationships between two pieces of information
 * Flash cards can increase the learning pace and help students maintain a good pace when it comes to finishing their work and improving their academic knowledge.
 
+## Installation
+
+- [JavaFX](https://openjfx.io/)
+- Java IDE to run the application (Eclipse IDE, Intelij IDEA, etc)
+- [Scene Builder](https://gluonhq.com/products/scene-builder/)
 
 ## Our App
 
