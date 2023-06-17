@@ -25,12 +25,6 @@ They help reinforce learning through active recall, where users attempt to answe
 * Flash cards are very good at helping you remember relationships between two pieces of information
 * Flash cards can increase the learning pace and help students maintain a good pace when it comes to finishing their work and improving their academic knowledge.
 
-## Installation
-
-- [JavaFX](https://openjfx.io/)
-- Java IDE to run the application (Eclipse IDE, Intelij IDEA, etc)
-- [Scene Builder](https://gluonhq.com/products/scene-builder/)
-
 ## Our App
 
 ![App Screenshot](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fcdda0601-565e-4f36-866f-c22af0c8a40d%2FUntitled.png?id=6422a575-3ad9-4219-9da3-2b5be054eda3&table=block&spaceId=7f8ab53a-3f24-40cb-8504-f506fba321ef&width=2000&userId=3e16a112-e22f-4aa1-a4ff-f0a3e3c4451c&cache=v2)
@@ -73,6 +67,12 @@ The app will shuffle the questions and display them to the user. When the user h
 **The application's ability to allow users to choose a specific location and name for their decks,** not only ensures efficient management of multiple flashcard decks for different subjects or topics, but it also allows users to customize their studying experience. By having the ability to personalize the names and locations of their decks, users can easily identify and distinguish between various subjects or topics. Additionally, the application's user-friendly and simplified interface makes studying easier and more accessible, ultimately leading to more a effective learning experience.
 
 **The app will shuffle the questions and display them to the user.** This feature ensures that users are not presented with the same questions in the same order every time they take a quiz, which could lead to memorization rather than true learning. By randomizing the order of the questions, the app helps users to engage with the content in a more meaningful way and encourages them to think critically about the material. This feature also helps to keep users from getting bored with the quiz format and provides a more dynamic learning experience. Overall, the shuffling of questions is an important feature of the app that enhances the learning process and keeps users engaged.
+
+## Tech
+
+- [JavaFX](https://openjfx.io/)
+- Java IDE to run the application (Eclipse IDE, Intelij IDEA, etc)
+- [Scene Builder](https://gluonhq.com/products/scene-builder/)
 
 ## Authors
 
