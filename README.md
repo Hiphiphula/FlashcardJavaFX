@@ -76,7 +76,7 @@ The app will shuffle the questions and display them to the user. When the user h
 
 ## Link
 
-- [Notion]([https://www.github.com/keita0](https://www.notion.so/FlipFX-66f9dac79dbc4be8b885a07e119e77d7))
+- [Notion](https://www.notion.so/FlipFX-66f9dac79dbc4be8b885a07e119e77d7)
 - [Figma](https://www.figma.com/file/HActjI25Iy3T5ZLgo8XzIW/Untitled?type=design&node-id=0%3A1&t=3FD3dIl2WHb9BNZ9-1)
 
 ## Authors
